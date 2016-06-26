@@ -1,0 +1,6 @@
+{
+  "name": "WechatPay",
+  "tagline": "WechatPay 是微信支付，主要包括付款码支付与扫码支付，只需在项目中把参数改成自己的就可以正常使用！",
+  "body": "# WechatPay\r\n\r\nWechatPay 主要代码源于微信官方所以不会存在“后门”请大家放心使用与集成\r\n\r\n * 交流QQ:996489865 \r\n * CSDN地址：http://blog.csdn.net/wu996489865\r\n * 知乎ID:\r\n\r\n##  Welcome to My GitHub Pages.\r\n   我是吴唐人，专注于Android开发，从事Android智能POS开发\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
